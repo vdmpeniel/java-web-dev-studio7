@@ -2,7 +2,7 @@ package org.launchcode.studio7;
 
 import java.io.IOException;
 
-public class DVD extends BaseDisc{
+public class DVD extends BaseDataDisc {
 
 
     public DVD(String label, int spinSpeed) {

@@ -2,7 +2,7 @@ package org.launchcode.studio7;
 
 import java.io.IOException;
 
-public class CD extends BaseDisc{
+public class CD extends BaseDataDisc {
     private int storageCapacity;
 
     private CD(String label, int spinSpeed, int storageCapacity) {
